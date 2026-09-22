@@ -7,6 +7,11 @@ public class DemoMap{
         studentAges.put("Mayank", 22);
         studentAges.put("Ayushi", 20);
         System.out.println("Ayushi's age:" + studentAges.get("Ayushi"));
+        studentAges.put("Ayushi",21);
+        boolean hasMayank = studentAges.containsKey("Mayank");
+        boolean hasAge20 = studentAges.containsValue(20);
+        System.out.println(hasAge20);
+        System.out.println(hasMayank);
     }
 }
 
