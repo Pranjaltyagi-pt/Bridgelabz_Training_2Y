@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbfcf382-8ebc-4c5f-8099-0c2e04e31b82" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Array/EculidsAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MaximumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/PrintArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/PowerCalculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/PrintNumberInc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/PrintNumberdec.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="01-Array" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Array/leetcode/LeetCode_1929.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3HUVaKHLrUqOn8lxrVBqyeYiBY6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BubbleShort.executor": "Run",
+    "Application.Demo2.executor": "Run",
+    "Application.DemoMap.executor": "Run",
+    "Application.EculidsAlgo.executor": "Run",
+    "Application.Fabonacci.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.GCD.executor": "Run",
+    "Application.LargestElement.executor": "Run",
+    "Application.LearningArrayList.executor": "Run",
+    "Application.LeetCode_1389.executor": "Run",
+    "Application.LeetCode_1929.executor": "Run",
+    "Application.LeetCode_238.executor": "Run",
+    "Application.LeetCode_977.executor": "Run",
+    "Application.MaximumElement.executor": "Run",
+    "Application.MoveZeroes.executor": "Run",
+    "Application.PairSum.executor": "Run",
+    "Application.PowerCalculate.executor": "Run",
+    "Application.PrintArray.executor": "Run",
+    "Application.PrintNumber.executor": "Run",
+    "Application.PrintNumberInc.executor": "Run",
+    "Application.PrintNumberdec.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.RemoveElement.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.SearchInsertPosition.executor": "Run",
+    "Application.SecondLargestElement.executor": "Run",
+    "Application.ShortZeroesandOnes.executor": "Run",
+    "Application.TripletSum.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "Application.ValidPalindrome.executor": "Run",
+    "Application.WaterContainer.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "03-Recursion",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/hp/OneDrive/Desktop/Bridgelabz_Training_2Y/javadsa/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\OneDrive\Desktop\Bridgelabz_Training_2Y\javadsa\src\Recursion" />
+      <recent name="C:\Users\hp\OneDrive\Desktop\Bridgelabz_Training_2Y" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MaximumElement">
+    <configuration name="LargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.logicbuilding.LargestElement" />
+      <module name="javadsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.logicbuilding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode_1389" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.leetcode.LeetCode_1389" />
+      <module name="javadsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.MaximumElement" />
+      <module name="javadsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintNumberInc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.PrintNumberInc" />
+      <module name="javadsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EasyLevel.ReverseArray" />
+      <module name="javadsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EasyLevel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaximumElement" />
+        <item itemvalue="Application.PrintNumberInc" />
+        <item itemvalue="Application.LargestElement" />
+        <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.LeetCode_1389" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbfcf382-8ebc-4c5f-8099-0c2e04e31b82" name="Changes" comment="" />
+      <created>1785922699304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785922699304</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/Factorial.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
