@@ -5,14 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbfcf382-8ebc-4c5f-8099-0c2e04e31b82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/EculidsAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/MaximumElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/PrintArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/PowerCalculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/PrintNumberInc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/PrintNumberdec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/PowerOfHanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/PrintString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/BubbleShort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/DemoMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/LargestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/LearningArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/LeetCode_1389.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/LeetCode_1929.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/LeetCode_238.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/LeetCode_977.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/MoveZeroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/RemoveElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/SearchInsertPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/SecondLargestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/ShortZeroesandOnes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/TripletSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/ValidPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/WaterContainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,14 +89,18 @@
     "Application.MaximumElement.executor": "Run",
     "Application.MoveZeroes.executor": "Run",
     "Application.PairSum.executor": "Run",
+    "Application.Palindrome.executor": "Run",
     "Application.PowerCalculate.executor": "Run",
+    "Application.PowerOfHanoi.executor": "Run",
     "Application.PrintArray.executor": "Run",
     "Application.PrintNumber.executor": "Run",
     "Application.PrintNumberInc.executor": "Run",
     "Application.PrintNumberdec.executor": "Run",
+    "Application.PrintString.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.RemoveElement.executor": "Run",
     "Application.ReverseArray.executor": "Run",
+    "Application.ReverseString.executor": "Run",
     "Application.SearchInsertPosition.executor": "Run",
     "Application.SecondLargestElement.executor": "Run",
     "Application.ShortZeroesandOnes.executor": "Run",
@@ -115,7 +138,7 @@
       <recent name="C:\Users\hp\OneDrive\Desktop\Bridgelabz_Training_2Y" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaximumElement">
+  <component name="RunManager">
     <configuration name="LargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.logicbuilding.LargestElement" />
       <module name="javadsa" />
@@ -219,6 +242,11 @@
           <url>file://$PROJECT_DIR$/src/Recursion/Factorial.java</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/MaximumElement.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
