@@ -5,33 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbfcf382-8ebc-4c5f-8099-0c2e04e31b82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/PowerOfHanoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/PrintString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/BubbleShort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/Demo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/DemoMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/LargestElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/LearningArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/LeetCode_1389.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/LeetCode_1929.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/LeetCode_238.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/LeetCode_977.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/MoveZeroes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/RemoveDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/RemoveElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/ReverseArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/SearchInsertPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/SecondLargestElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/ShortZeroesandOnes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/TripletSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/ValidPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/WaterContainer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12-10-2026_09_11__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvanceRecursion/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvanceRecursion/Quicksort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/PowerOfHanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvanceRecursion/PowerOfHanoi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,72 +47,77 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BubbleShort.executor": "Run",
-    "Application.Demo2.executor": "Run",
-    "Application.DemoMap.executor": "Run",
-    "Application.EculidsAlgo.executor": "Run",
-    "Application.Fabonacci.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.GCD.executor": "Run",
-    "Application.LargestElement.executor": "Run",
-    "Application.LearningArrayList.executor": "Run",
-    "Application.LeetCode_1389.executor": "Run",
-    "Application.LeetCode_1929.executor": "Run",
-    "Application.LeetCode_238.executor": "Run",
-    "Application.LeetCode_977.executor": "Run",
-    "Application.MaximumElement.executor": "Run",
-    "Application.MoveZeroes.executor": "Run",
-    "Application.PairSum.executor": "Run",
-    "Application.Palindrome.executor": "Run",
-    "Application.PowerCalculate.executor": "Run",
-    "Application.PowerOfHanoi.executor": "Run",
-    "Application.PrintArray.executor": "Run",
-    "Application.PrintNumber.executor": "Run",
-    "Application.PrintNumberInc.executor": "Run",
-    "Application.PrintNumberdec.executor": "Run",
-    "Application.PrintString.executor": "Run",
-    "Application.RemoveDuplicates.executor": "Run",
-    "Application.RemoveElement.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.ReverseString.executor": "Run",
-    "Application.SearchInsertPosition.executor": "Run",
-    "Application.SecondLargestElement.executor": "Run",
-    "Application.ShortZeroesandOnes.executor": "Run",
-    "Application.TripletSum.executor": "Run",
-    "Application.TwoSum.executor": "Run",
-    "Application.ValidPalindrome.executor": "Run",
-    "Application.WaterContainer.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "03-Recursion",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/hp/OneDrive/Desktop/Bridgelabz_Training_2Y/javadsa/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BubbleShort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EculidsAlgo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fabonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GCD.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LearningArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode_1389.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode_1929.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode_238.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode_977.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeShort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PairSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerCalculate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOfHanoi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintNumberInc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintNumberdec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInsertPosition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondLargestElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShortZeroesandOnes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TripletSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WaterContainer.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;03-Recursion&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/hp/OneDrive/Desktop/Bridgelabz_Training_2Y/javadsa/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hp\OneDrive\Desktop\Bridgelabz_Training_2Y\javadsa\src\Recursion" />
       <recent name="C:\Users\hp\OneDrive\Desktop\Bridgelabz_Training_2Y" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AdvanceRecursion" />
     </key>
   </component>
   <component name="RunManager">
@@ -145,19 +127,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Array.logicbuilding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode_1389" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.leetcode.LeetCode_1389" />
-      <module name="javadsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,6 +147,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MergeShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.MergeShort" />
+      <module name="javadsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.MergeSort" />
+      <module name="javadsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintNumberInc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.PrintNumberInc" />
       <module name="javadsa" />
@@ -191,26 +186,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EasyLevel.ReverseArray" />
-      <module name="javadsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EasyLevel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.MergeShort" />
         <item itemvalue="Application.MaximumElement" />
         <item itemvalue="Application.PrintNumberInc" />
         <item itemvalue="Application.LargestElement" />
-        <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.LeetCode_1389" />
       </list>
     </recent_temporary>
   </component>

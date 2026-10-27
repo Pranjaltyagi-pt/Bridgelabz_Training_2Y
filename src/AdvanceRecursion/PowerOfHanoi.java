@@ -1,4 +1,4 @@
-package Recursion;
+package AdvanceRecursion;
 
 public class PowerOfHanoi {
     public static void toh(int n, char source,char helper,char destination){
