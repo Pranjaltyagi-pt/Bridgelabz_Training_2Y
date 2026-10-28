@@ -9,30 +9,43 @@ public class Quicksort {
         quicksort(arr,start,pivot-1);
         quicksort(arr,pivot+1,end);
     }
-    public static int partition(int arr[],int start, int end){
-        int pivot = arr[end];
-        int i = start-1;
+    public static int partition(int arr[],int start, int end) {
+        int pivot = arr[start];
+        int count = 0;
 
-        for(int j=start;j<=end;j++) {
-            if (arr[j] < pivot) {
-                i++;
-
-                int temp = arr[i];
-                arr[i] = arr[j];
-                arr[j] = temp;
+        for (int i = start + 1; i <= end; i++) {
+            if (arr[i] < pivot) {
+                count++;
             }
         }
-            int temp = arr[i+1];
-            arr[i+1] = arr[end];
-            arr[end] = temp;
-            return i+1;
-    }
-
-    static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int arr[] = {2,6,11,4,8,14};
+        int pivotIndex = start + count;
+        swap(arr, start, pivotIndex);
+        int i = start;
+        int j = end;
+        while (i < pivotIndex && j > pivotIndex) {
+            while (arr[i] <= pivot) {
+                i++;
+            }
+            while (arr[j] > pivot) {
+                j--;
+            }
+            if (i < pivotIndex && j > pivotIndex) {
+                swap(arr, i, j);
+                    i++;
+                    j--;
+                }
+            }
+            return pivotIndex;
+        }
+        public static void swap(int[] arr,int x,int y){
+            int temp = arr[x];
+            arr[x]=arr[y];
+            arr[y] =temp;
+        }
+        static void main(String[] args) {
+        int arr[] = {7,13,8,5,10,2,4};
+        System.out.println(Arrays.toString(arr));
         quicksort(arr,0,arr.length-1);
         System.out.println(Arrays.toString(arr));
     }
-
 }
