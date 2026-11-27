@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbfcf382-8ebc-4c5f-8099-0c2e04e31b82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PracticeProblem/CompareString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeProblem/RemoveCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeProblem/ReplaceCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeProblem/StringLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/DirectorySize.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +54,7 @@
     "Application.CountVowels.executor": "Run",
     "Application.Demo2.executor": "Run",
     "Application.DemoMap.executor": "Run",
+    "Application.DirectorySize.executor": "Run",
     "Application.EculidsAlgo.executor": "Run",
     "Application.Fabonacci.executor": "Run",
     "Application.Factorial.executor": "Run",
@@ -68,6 +66,7 @@
     "Application.LeetCode_1929.executor": "Run",
     "Application.LeetCode_238.executor": "Run",
     "Application.LeetCode_977.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MaximumElement.executor": "Run",
     "Application.MergeShort.executor": "Run",
     "Application.MergeSort.executor": "Run",
@@ -196,17 +195,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="javadsa" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="javadsa" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MergeSort" />
@@ -250,6 +238,11 @@
           <url>file://$PROJECT_DIR$/src/Array/MaximumElement.java</url>
           <line>7</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeProblem/CompareString.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

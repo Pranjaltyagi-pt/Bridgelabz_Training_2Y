@@ -1,0 +1,37 @@
+Index: src/Stack/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Stack;\r\n\r\npublic class Main {\r\n\r\n        static void main(String[] args) {\r\n            StackOps st = new StackOps();\r\n            st.push(10);\r\n            st.push(20);\r\n            st.push(30);\r\n            st.push(40);\r\n            st.push(50);\r\n            st.display();\r\n\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/src/Stack/Main.java b/src/Stack/Main.java
+--- a/src/Stack/Main.java	(revision 94a2d8942e9eb8e9b662ee4ce414e0c93dc7c5e7)
++++ b/src/Stack/Main.java	(date 1794888452300)
+@@ -4,6 +4,7 @@
+ 
+         static void main(String[] args) {
+             StackOps st = new StackOps();
++            StackOps2 st1 = new StackOps2();
+             st.push(10);
+             st.push(20);
+             st.push(30);
+@@ -11,5 +12,20 @@
+             st.push(50);
+             st.display();
+ 
++            st1.push(10);
++            st1.push(20);
++            st1.push(30);
++            st1.push(40);
++            st1.push(50);
++            st1.push(60);
++            st1.display();
++            st1.pop();
++            st1.pop();
++            st1.pop();
++            st1.pop();
++            st1.pop();
++            st1.pop();
++
++
+     }
+ }
